@@ -1,0 +1,3 @@
+[submodule "artcade-ui"]
+	path = artcade-ui
+	url = https://github.com/0xartcade/artcade-ui.git

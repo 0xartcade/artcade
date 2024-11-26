@@ -27,7 +27,7 @@ We believe in the power of decentralization and the future of web3. We believe t
 ## Important Links
 
 ### Github Repos
-[Artcade-UI](https://https://github.com/0xartcade/artcade-ui) // [Artcade-Contracts](https://github.com/0xartcade/artcade-contracts) //[Artcade-API](https://github.com/0xartcade/artcade-api) // [UI-Explorations](https://github.com/0xartcade/ui-explorations)
+[Artcade-UI](https://https://github.com/0xartcade/artcade-ui) // [Artcade-Contracts](https://github.com/0xartcade/artcade-contracts) // [Artcade-API](https://github.com/0xartcade/artcade-api) // [UI-Explorations](https://github.com/0xartcade/ui-explorations)
 
 ### GitHub Project
 
@@ -35,8 +35,7 @@ We believe in the power of decentralization and the future of web3. We believe t
 
 ### Figma Projects
 
-[FigJam](https://www.figma.com/board/3tgHrRXkWg9ghDdjumhHi0/0xArtCade---Figjam?node-id=0-1&t=l5I3tiwjLWlxFcSz-1) (idea scratchpad)
-[Figma Designs](https://www.figma.com/design/Vwq3VcuZgdpqECNxdNbr47/0xArtcade---Designs?node-id=61-105&t=ZMXJEt10GI4ho7Va-1) (brand kit, ui/ux)
+[FigJam](https://www.figma.com/board/3tgHrRXkWg9ghDdjumhHi0/0xArtCade---Figjam?node-id=0-1&t=l5I3tiwjLWlxFcSz-1) (idea scratchpad) // [Figma Designs](https://www.figma.com/design/Vwq3VcuZgdpqECNxdNbr47/0xArtcade---Designs?node-id=61-105&t=ZMXJEt10GI4ho7Va-1) (brand kit, ui/ux)
 
 ### Websites
 

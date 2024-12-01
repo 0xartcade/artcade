@@ -1,6 +1,6 @@
 # 0xArtcade
 
-[Live Demo] Coming Soon
+[Live Sandbox Demo](https://sandbox0xartcade.xyz)
 
 ## What is the 0xArtcade?
 

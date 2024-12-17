@@ -1,9 +1,0 @@
-[submodule "artcade-ui"]
-	path = artcade-ui
-	url = https://github.com/0xartcade/artcade-ui.git
-[submodule "artcade-api"]
-	path = artcade-api
-	url = https://github.com/0xartcade/artcade-api.git
-[submodule "artcade-contracts"]
-	path = artcade-contracts
-	url = https://github.com/0xartcade/artcade-contracts.git
